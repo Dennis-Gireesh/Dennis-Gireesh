@@ -6,14 +6,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=Dennis-Gireesh&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&locale=en&line_height=25)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dennis-Gireesh&theme=dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=8B949E&dates=8B949E&border=2D333B)
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -22,10 +14,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Featured-FFD43B?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-FFD43B?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![SYCL](https://img.shields.io/badge/SYCL-76D7C4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0iIzREQ0YzRiIvPjx0ZXh0IHg9IjUwIiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMCIgZmlsbD0id2hpdGUiPkM8L3RleHQ+PC9jaXJjbGU+PC9zdmc+)](https://sycl.io/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![IoT](https://img.shields.io/badge/IoT-00D1B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0iIzAwRDFCNSIvPjx0ZXh0IHg9IjUwIiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCIgZmlsbD0id2hpdGUiPklPVzwvdGV4dD48L2NpcmNsZT48L3N2Zz4)](https://en.wikipedia.org/wiki/Internet_of_things)
 
 </div>
 
@@ -47,7 +38,7 @@
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 
 <div align="center">
 
@@ -58,7 +49,7 @@
 
 ---
 
-## 📊 Profile Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
