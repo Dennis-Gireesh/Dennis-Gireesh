@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+%26+IoT+Developer;C+%26+Python+Enthusiast;Linux+Kernel+&+Hardware;Open+Source+Learner&font=Fira%20Code&size=24&weight=600&color=58A6FF&center=true&width=440&height=45&duration=3000&pause=1000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Scientific+Python+Packaging+Engineer;AI+Frameworks+DevOps;Conda+%26+PyPI+Packages;CI%2FCD+Infrastructure&font=Fira%20Code&size=22&weight=600&color=58A6FF&center=true&width=480&height=45&duration=3000&pause=1000)
 
 </div>
 
@@ -13,10 +13,10 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
+[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-FFD43B?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![SYCL](https://img.shields.io/badge/SYCL-76D7C4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0iIzREQ0YzRiIvPjx0ZXh0IHg9IjUwIiB5PSI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMCIgZmlsbD0id2hpdGUiPkM8L3RleHQ+PC9jaXJjbGU+PC9zdmc+)](https://sycl.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 
 </div>
 
@@ -28,22 +28,24 @@
 
 | Project | Language | Description |
 |:-------:|:--------:|:-----------:|
-| [Linux-Device-Drivers](https://github.com/Dennis-Gireesh/Linux-Device-Drivers) | C | ⭐ Advanced Systems Programming |
-| [Fault-tolerant-Networked-and-Distributed-File-system](https://github.com/Dennis-Gireesh/Fault-tolerant-Networked-and-Distributed-File-system) | Python | Principles of Computer System Design |
-| [MIPS-Processor-Simulation](https://github.com/Dennis-Gireesh/MIPS-Processor-Simulation) | Python | Embedded Projects Workspace |
-| [Binary Code Compression](https://github.com/Dennis-Gireesh/Binary_Code_Compression_and_Decompression) | Python | Binary Encoding/Decoding |
-| [CNN Digit Classification](https://github.com/Dennis-Gireesh/Classification-of-Handwritten-Digits-using-CNN) | Jupyter | Deep Learning & ML |
+| [dpctl](https://github.com/Dennis-Gireesh/dpctl) | Python/C++ | Python SYCL bindings & Array API library — scientific computing at scale |
+| [hermes-hybrid-agent-router](https://github.com/Dennis-Gireesh/hermes-hybrid-agent-router) | Python | AI agent router: routes tasks between local Ollama/llama.cpp and OpenAI Codex for cost-efficient LLM inference |
+| [CNN Digit Classification](https://github.com/Dennis-Gireesh/Classification-of-Handwritten-Digits-using-CNN) | Jupyter | Deep learning pipeline — CNN classification of handwritten digits |
+| [Fault-tolerant Distributed File System](https://github.com/Dennis-Gireesh/Fault-tolerant-Networked-and-Distributed-File-system) | Python | Distributed systems — fault-tolerant networked file system design |
+| [Binary Code Compression](https://github.com/Dennis-Gireesh/Binary_Code_Compression_and_Decompression) | Python | Binary encoding/decoding algorithms |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 📦 Packaging & Ecosystem
 
 <div align="center">
 
-[![Embedded Software & Hardware Architecture](https://img.shields.io/badge/Certificate-Embedded_Software_Hardware-Architecture-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgNTAiPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiIHJ4PSI1IiBmaWxsPSIjNUFBNkZGIi8+PC9zdmc+)](https://github.com/Dennis-Gireesh/Embedded-Software-and-Hardware-Architecture-Certificate)
-[![IoT & Embedded Systems](https://img.shields.io/badge/Certificate-Internet_of_Things_Embedded_Systems-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgNTAiPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiIHJ4PSI1IiBmaWxsPSIjRkY2QjZCIi8+PC9zdmc+)](https://github.com/Dennis-Gireesh/Introduction-to-the-Internet-of-Things-and-Embedded-Systems)
+- **Scientific Python** — NumPy, SciPy, SYCL/Array API, GPU-accelerated arrays
+- **Package Distribution** — PyPI, Conda, wheel building, cross-platform packaging
+- **CI/CD** — GitHub Actions workflows, automated testing & release pipelines
+- **AI/ML Infra** — Model serving, inference routing, hybrid local/cloud LLM deployment
 
 </div>
 
@@ -61,9 +63,9 @@
 
 <div align="center">
 
-**📍 Location:** United States of America  
-**📅 Joined:** November 2018  
-**📦 Repos:** 9  
+**📍 Location:** United States of America
+**📅 Joined:** November 2018
+**📦 Repos:** 10
 
 *Built with ❤️ and live GitHub widgets*
 
